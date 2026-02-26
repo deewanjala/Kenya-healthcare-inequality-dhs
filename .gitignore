@@ -8,8 +8,18 @@ __pycache__/
 
 data/*.DTA
 
+requirements.txt
+
 # Distribution / packaging
 .Python
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scipy
+pyreadstat
+jupyter
 build/
 develop-eggs/
 dist/
@@ -27,6 +37,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+outputs/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
